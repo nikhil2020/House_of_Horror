@@ -1,0 +1,30 @@
+  <table width="500" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <th>Spring and Summer (May to August)</th>
+      <th>&nbsp;</th>
+    </tr>
+    <tr>
+      <td>Adult (13+)</td>
+      <td>$14.99</td>
+    </tr>
+    <tr>
+      <td>Kids (12 and under)</td>
+      <td>$11.99</td>
+    </tr>
+    <tr>
+      <th>Autum Rates (September to November)</th>
+      <th>&nbsp;</th>
+    </tr>
+    <tr>
+      <td>Adults (13+)</td>
+      <td>$12.99</td>
+    </tr>
+    <tr>
+      <td>Kids (12 and under)</td>
+      <td>$9.99</td>
+    </tr>
+    <tr>
+      <th>Closed (December to April)</th>
+      <th>&nbsp;</th>
+    </tr>
+  </table>
